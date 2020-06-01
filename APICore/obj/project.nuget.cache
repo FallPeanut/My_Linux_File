@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fW/1DDVr8yJTyPqLW1i8G7of6zBsEhYXv0RM3s2dkEPIL7r4s/HnT4NWJv47HK3IvSSdcITfbm9hPkAEvpesVA==",
+  "success": true,
+  "projectFilePath": "D:\\SW_F\\索德MES新框架\\Core\\Core代码\\APICore\\APICore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\meiqi\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.9.5\\microsoft.visualstudio.azure.containers.tools.targets.1.9.5.nupkg.sha512"
+  ],
+  "logs": []
+}

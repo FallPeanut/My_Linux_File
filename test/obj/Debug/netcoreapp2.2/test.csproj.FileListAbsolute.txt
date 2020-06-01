@@ -1,0 +1,16 @@
+D:\SW_FF\索德MES新框架\Core\代码\test\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\SW_FF\索德MES新框架\Core\代码\test\bin\Debug\netcoreapp2.2\appsettings.json
+D:\SW_FF\索德MES新框架\Core\代码\test\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\SW_FF\索德MES新框架\Core\代码\test\obj\Debug\netcoreapp2.2\test.AssemblyInfoInputs.cache
+D:\SW_FF\索德MES新框架\Core\代码\test\obj\Debug\netcoreapp2.2\test.AssemblyInfo.cs
+D:\SW_FF\索德MES新框架\Core\代码\test\bin\Debug\netcoreapp2.2\test.deps.json
+D:\SW_FF\索德MES新框架\Core\代码\test\bin\Debug\netcoreapp2.2\test.runtimeconfig.json
+D:\SW_FF\索德MES新框架\Core\代码\test\bin\Debug\netcoreapp2.2\test.runtimeconfig.dev.json
+D:\SW_FF\索德MES新框架\Core\代码\test\bin\Debug\netcoreapp2.2\test.dll
+D:\SW_FF\索德MES新框架\Core\代码\test\bin\Debug\netcoreapp2.2\test.pdb
+D:\SW_FF\索德MES新框架\Core\代码\test\obj\Debug\netcoreapp2.2\test.csprojAssemblyReference.cache
+D:\SW_FF\索德MES新框架\Core\代码\test\obj\Debug\netcoreapp2.2\test.RazorAssemblyInfo.cache
+D:\SW_FF\索德MES新框架\Core\代码\test\obj\Debug\netcoreapp2.2\test.RazorAssemblyInfo.cs
+D:\SW_FF\索德MES新框架\Core\代码\test\obj\Debug\netcoreapp2.2\test.RazorTargetAssemblyInfo.cache
+D:\SW_FF\索德MES新框架\Core\代码\test\obj\Debug\netcoreapp2.2\test.dll
+D:\SW_FF\索德MES新框架\Core\代码\test\obj\Debug\netcoreapp2.2\test.pdb
