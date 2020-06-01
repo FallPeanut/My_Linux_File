@@ -1,0 +1,30 @@
+echo "# kong_test" >> README.md
+git init ----------------------------------------git的 初始化本地仓库  (会发现文件变成黄色--与提交的不一致)
+git add README.md----------------------------------------git的 添加文件到缓冲区   (会发现文件变成绿色)
+git commit -m "first commit"  ----------------------------------------git的 commit 提交至 归档区  -m "first commit" 是 注释的意思
+git  commit  /.1111.txt   -m "first com "
+
+
+git remote add origin https://github.com/decongkong/kong_test.git  ----------------------------------------git的 添加一个远端的 子分支  origin
+git push -u origin master  ----------------------------------------git的 提交至远端 GIT仓库中  origin   的分支  master  
+
+git remote add origin https://github.com/decongkong/MeiqiuTest.git
+git push -u origin master  ---------------------------------------推送
+git push -f origin master   ---------------------------------------处理远端不同：暴力上传， 忽略 云端的代码与本地的不同
+git pull origin master    ---------------------------------------处理远端不同： 获取远端代码进行更新
+
+如果 报错 ：  远程起源已经存在。  那就需要删掉   远端分支 并重新创建
+1、先输入 git remote rm origin
+2、再输入 git remote add origin**************
+
+
+
+
+git add .  将目录下所有的文件添加到缓冲区；
+git rm -r --cached .  将目录下所有的文件文件从缓冲区清除。
+
+git  log 看日志     Q 退出日志；
+git reflog 查看已经 提交 日志
+ git  reset   回滚 有四种；
+ git Revert 指定回滚
+  git Revert --mixed  哈希值
