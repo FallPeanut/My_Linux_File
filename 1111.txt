@@ -8,7 +8,7 @@ git  commit  /.1111.txt   -m "first com "
 git remote add origin https://github.com/decongkong/kong_test.git  ----------------------------------------git的 添加一个远端的 子分支  origin
 git push -u origin master  ----------------------------------------git的 提交至远端 GIT仓库中  origin   的分支  master  
 
-git remote add origin https://github.com/decongkong/MeiqiuTest.git
+git push origin master--------------------------------------------------------------推送远端
 git push -u origin master  ---------------------------------------推送
 git push -f origin master   ---------------------------------------处理远端不同：暴力上传， 忽略 云端的代码与本地的不同
 git pull origin master    ---------------------------------------处理远端不同： 获取远端代码进行更新
@@ -28,3 +28,24 @@ git reflog 查看已经 提交 日志
  git  reset   回滚 有四种；
  git Revert 指定回滚
   git Revert --mixed  哈希值
+
+
+
+
+拉去GIT仓库代码：
+
+1、本地创建文件夹用于存放拉取的代码
+
+2、执行git init初始化文件夹
+
+3、与远程代码仓库建立连接
+
+　　git remote add origin git@github.com.wuylin/nothing.git(远程代码仓库链接地址)
+
+4、切换分支拉取代码（wyl为远程代码仓库分支名）
+
+　　git fetch origin wyl（更新分支最新状态）
+
+　　git checkout -b wyl（切换分支）
+
+　　git pull origin wyl（拉取代码）
