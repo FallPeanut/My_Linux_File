@@ -6,6 +6,6 @@
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <TimeStampOfAssociatedLegacyPublishXmlFile />
-    <_PublishTargetUrl>D:\SW_FF\索德MES新框架\Core\代码\APICore2\bin\Release\netcoreapp3.0\publish\</_PublishTargetUrl>
+    <_PublishTargetUrl>D:\SW_F\MyCode\Core\Core代码\APICORE3.1  通道\bin\Release\netcoreapp3.0\publish\</_PublishTargetUrl>
   </PropertyGroup>
 </Project>
