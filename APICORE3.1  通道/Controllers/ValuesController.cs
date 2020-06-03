@@ -38,7 +38,7 @@ namespace APICore.Controllers
         [HttpGet]
         public string Get3()
         {
-            return "ceshi";
+            return "测试！！！！！！！！！！";
         }
         //[HttpGet]
         //public HttpResponseMessage Get4()

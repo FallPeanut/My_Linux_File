@@ -1,3 +1,13 @@
+//{
+//  "Logging": {
+//    "LogLevel": {
+//      "Default": "Information",
+//      "Microsoft": "Warning",
+//      "Microsoft.Hosting.Lifetime": "Information"
+//    }
+//  },
+//  "AllowedHosts": "*"
+//}
 {
   "iisSettings": {
     "windowsAuthentication": false,
@@ -12,7 +22,7 @@
     "IIS Express": {
       "commandName": "IISExpress",
       "launchBrowser": true,
-      "launchUrl": "api/Values/get",
+      "launchUrl": "api/Values/Get3",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
@@ -20,7 +30,7 @@
     "APICore": {
       "commandName": "Project",
       "launchBrowser": true,
-      "launchUrl": "weatherforecast",
+      "launchUrl": "api/Values/Get3",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       },

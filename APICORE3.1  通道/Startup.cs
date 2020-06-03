@@ -15,6 +15,10 @@ namespace APICore
 {
     public class Startup
     {
+        /// <summary>
+        /// ¶ÁÈ¡ÅäÖÃÎÄ¼ş  appsettings.json
+        /// </summary>
+        /// <param name="configuration"></param>
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;

@@ -19,7 +19,7 @@ namespace APICore
         }
 
         public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
-            WebHost.CreateDefaultBuilder(args)
-                .UseStartup<Startup>();
+            WebHost.CreateDefaultBuilder(args)// 创建 WEB主机 实例
+                .UseStartup<Startup>();// 创建 WEB主机 开启实例
     }
 }
