@@ -70,7 +70,8 @@ git remote add origin https://github.com/decongkong/kong_test.git     ----------
 git clone https://github.com/decongkong/MeiqiuTest.git  ----------------克隆远端（第一次）
 
 第二次：
-git pull origin master   --------------- 将本地与远端进行同步
+git pull origin master    --------------- 将本地与远端进行同步
+https://github.com/decongkong/MeiqiuTest.git    第二步骤
 
 
 
