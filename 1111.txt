@@ -74,7 +74,7 @@ git pull origin master    --------------- 将本地与远端进行同步
 https://github.com/decongkong/MeiqiuTest.git    第二步骤
 
 
-1234567890
+git fetch origin master 拉去远端代码
 
 
 

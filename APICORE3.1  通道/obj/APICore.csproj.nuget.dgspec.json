@@ -13,9 +13,13 @@
         "packagesPath": "C:\\Users\\meiqi\\.nuget\\packages\\",
         "outputPath": "D:\\SW_F\\MyCode\\Core\\Core代码\\APICORE3.1  通道\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "I:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
           "C:\\Users\\meiqi\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
